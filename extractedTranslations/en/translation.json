@@ -1,11 +1,11 @@
 {
   "throw error": "throw error",
+  "Главная": "Main",
   "Главная страница": "Main page",
   "О сайте": "About site",
   "Обновить страницу": "Reload page",
   "Переключить": "Toggle",
   "Произошла непредвиденная ошибка": "Error",
   "Страница не найдена": "Page not found",
-  "Язык": "English",
-  "Главная": "Main"
+  "Язык": "English"
 }
