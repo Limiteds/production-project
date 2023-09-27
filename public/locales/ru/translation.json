@@ -12,5 +12,7 @@
   "Главная": "Главная",
   "Короткий язык": "Ru",
   "decrement": "decrement",
-  "increment": "increment"
+  "increment": "increment",
+  "Введите username": "Введите username",
+  "Введите пароль": "Введите пароль"
 }
